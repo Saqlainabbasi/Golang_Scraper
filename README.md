@@ -1,4 +1,5 @@
 # Golang_Scraper
+
 This is a simple web scraper written in Go. It scrapes the website https://scrapeme.live/shop/ and returns the title and description of the page.
 For this Colly is used as the scraping framework.
 
